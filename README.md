@@ -2,7 +2,7 @@ TUTORIAL DE COMO USAR PROS FUTUROS RAITECOS
 - clone o repositorio
 - abra o diretorio no terminal
 - digite "pip install -r requirements.txt" (sem as aspas)
-- peça a um coordenador para que acesse o drive pelo e-mail da coordenação e lhe envie o arquivo em Meu Drive -> Google API Tokens -> Gmail -> credentials.json
+- peça a um coordenador (de eixo ou time, não de comissão) para que acesse o drive pelo e-mail da coordenação e lhe envie o arquivo em Meu Drive -> Google API Tokens -> Gmail -> credentials.json
 - salve esse arquivo na pasta do projeto
 - abra o notebook
 - faça uma planilha no google sheets com duas colunas, uma chamada "nome" e uma chamada "e-mail", apenas, e preencha com os dados das escolas a serem convidadas
